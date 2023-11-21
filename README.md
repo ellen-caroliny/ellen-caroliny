@@ -1,5 +1,5 @@
 ### Oii, meu nome é Ellen Caroliny 👋
-# Estou cursando graduação em Sistemas de Informação e em Análise e Desenv. de Sistemas
+# Estou cursando graduação em Sistemas de Informação
 # Habilidades
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -21,8 +21,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true"
