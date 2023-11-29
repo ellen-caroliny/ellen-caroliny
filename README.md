@@ -1,12 +1,13 @@
 ### Oii, meu nome é Ellen Caroliny 👋
 # Estou cursando graduação em Sistemas de Informação
-# Habilidades
-<div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+
+#  Minhas Skills
+<div>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
   # Conecte-se comigo!
@@ -17,8 +18,13 @@
   
 </div>
 
-# Github Stats
+#⭐ Informações sobre minha conta GitHub
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+
+<p> Estudando sistemas de informação na UFRPE<br/> 
+
+<hr>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true&theme=dark"
