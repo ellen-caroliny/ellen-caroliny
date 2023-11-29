@@ -20,10 +20,7 @@
 
 #⭐ Informações sobre minha conta GitHub
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
-
-<p> Estudando sistemas de informação na UFRPE<br/> 
-
+<img src="https://img.shields.io/static/v1?label=Overview&message=ellen-caroliny&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 <hr>
 <picture>
   <source
@@ -32,7 +29,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true" />
 </picture>
