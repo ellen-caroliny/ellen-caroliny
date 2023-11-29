@@ -1,7 +1,13 @@
-### Oii, meu nome é Ellen Caroliny 👋
-# Estou cursando graduação em Sistemas de Informação
+### Olá, mundo👋
 
-#  Minhas Skills
+<p>O meu nome é Ellen Caroliny, seja bem-vindo(a) ao meu perfil no GitHub!</p>
+
+# Sobre mim
+
+<p>🧠 Estudante de Sistemas de Informação na UFRPE</p>
+<p>📍Sou de Recife/PE</p>
+
+# Minhas Skills
 <div>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -18,18 +24,15 @@
   
 </div>
 
-#⭐ Informações sobre minha conta GitHub
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=ellen-caroliny&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+# Informações sobre minha conta GitHub
+<div><img src="https://img.shields.io/static/v1?label=Overview&message=ellen-caroliny&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 <hr>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ellen-caroliny&show_icons=true" />
-</picture>
+</div>
+
+ <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-caroliny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
