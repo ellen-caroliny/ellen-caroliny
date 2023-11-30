@@ -2,10 +2,8 @@
 
 <p>O meu nome é Ellen Caroliny, seja bem-vindo(a) ao meu perfil no GitHub!</p>
 
-# Sobre mim
-
 <p>🧠 Estudante de Sistemas de Informação na UFRPE</p>
-<p>📍Sou de Recife/PE</p>
+
 
 # Minhas Skills
 <div>
